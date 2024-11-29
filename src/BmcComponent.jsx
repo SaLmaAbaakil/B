@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './BmcComponent.css';
 import logo from './assets/logo.png';
 
